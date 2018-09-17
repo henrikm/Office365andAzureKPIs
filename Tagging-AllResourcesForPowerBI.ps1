@@ -4,7 +4,7 @@
     .PARAMETER ResourceGroupName
         None
     .NOTES
-        AUTHOR: Henrik Motzkus, COMPAREX AG
+        AUTHOR: Henrik Motzkus
         LASTEDIT: 10.08.2018
 #>
 
